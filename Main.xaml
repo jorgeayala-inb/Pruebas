@@ -229,7 +229,7 @@
         <OutArgument x:TypeArguments="x:String">[ValBorrarIncidencias_Str]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">2</InArgument>
+        <InArgument x:TypeArguments="x:String">324</InArgument>
       </Assign.Value>
     </Assign>
     <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="518.4,113.6" sap2010:WorkflowViewState.IdRef="Assign_132">
